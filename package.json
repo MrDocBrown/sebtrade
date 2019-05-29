@@ -1,0 +1,13 @@
+{
+  "name": "SebTrade",
+  "description": "Using Firebase Cloud Functions to scrape data from IG and into Airtable",
+  "engines": {
+    "node": "8"
+  },
+  "dependencies": {
+    "firebase-admin": "^7.3.0",
+    "firebase-functions": "^2.3.0",
+    "node-fetch": "2.3.0"
+  },
+  "private": true
+}
